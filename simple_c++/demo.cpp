@@ -2,8 +2,13 @@
 using namespace std;
 int main(){
 
-cout<<"Shahriar jamal c++ codes start";
-
+   int love=20;
+if(love>100){
+  cout<<"true";
+}
+else{
+  cout<<"false";
+}
 return 0;
 
 

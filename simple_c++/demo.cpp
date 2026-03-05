@@ -1,11 +1,10 @@
 #include<iostream>
+using namespace std;
 int main(){
 
-  std::cout<<"Hi,shahriar jamal\n ";
-  std::cout<<"Address:Dinajpur \n";
-  std::cout<<+8801322577895;
-  std::cout<<"--------------------------------\n";
+cout<<"Shahriar jamal c++ codes start";
 
+return 0;
 
 
 }
